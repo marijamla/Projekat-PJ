@@ -1,4 +1,4 @@
-Projekat iz predmeta Razvoj Veb Aplikacija
+Projekat iz predmeta Programski Jezici
 
 Full-stack veb aplikacija za rezervaciju smeštaja u Srbiji ("projekat-hotel") podeljena na frontend i backend deo.
 Podatke o hotelima preuzima iz OpenStreetMap Overpass API-ja.
