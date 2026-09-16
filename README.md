@@ -1,4 +1,5 @@
-Projekat iz predmeta Razvoj Veb Aplikacija 
+Projekat iz predmeta Razvoj Veb Aplikacija
+
 Full-stack veb aplikacija za rezervaciju smeštaja u Srbiji ("projekat-hotel") podeljena na frontend i 
 backend deo. Podatke o hotelima preuzima iz OpenStreetMap Overpass API-ja. Koristi MySQL kao bazu 
 podataka ("hotels_db") i sadrži tri tabele ("hotels", "reservation", "user") koje zajedno čine relacionu 
